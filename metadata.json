@@ -1,0 +1,6 @@
+{
+  "name": "MoodMuse AI",
+  "description": "Premium AI-powered music recommendation platform tailored to your mood, emotions, and listening vibes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
