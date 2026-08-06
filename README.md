@@ -310,45 +310,26 @@ Demo
 
 Future Scope
 
-# ⚙️ Installation & Setup
 
-## Clone Repository
 
-```bash
-git clone https://github.com/yourusername/Promptathon2026_YourName.git
-```
-
-## Frontend
-
-```bash
-npm install
-npm run dev
-```
-
-## Backend
-
-```bash
-cd backend
-pip install -r requirements.txt
-uvicorn main:app --reload
-```
-
----
-
-# ▶️ How to Run
-
-1. Start the FastAPI backend.
-2. Start the React frontend.
-3. Open the frontend in the browser.
-4. Enter a mood or message.
-5. Receive an AI-generated playlist recommendation.
 
 ---
 
 # 📸 Screenshots
 
-Add screenshots in the `screenshots/` folder.
+screenshots are in 
+history tab.png
+home page1.png
+homepage 2.png
+homepage 4.png
+homepage3.png
 
+playlist tab.png
+progile tab.png
+
+screenshot testacase.png
+screenshot testcase.png
+screenshottest care.png
 Examples:
 
 - Home Screen
