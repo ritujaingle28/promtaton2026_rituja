@@ -399,3 +399,6 @@ This project was developed for educational and competition purposes.
 - React
 - OpenAI
 - PROMPT-A-THON 2026 Organizers
+  # to access
+  https://promtaton2026-rituja.vercel.app/
+  
